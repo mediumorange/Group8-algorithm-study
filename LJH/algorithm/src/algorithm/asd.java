@@ -3,17 +3,27 @@ package algorithm;
 import java.util.Scanner;
 
 public class asd {
+	public static long solution(int price, int money, int count) {
+        
+        long answer = -1;
+        long m = (long)count*(2*price+(count-1)*price)/2;
+        
+        if (m > money) {
+            answer = m-money;
+        }
+        
+        else {
+            answer = 0;
+        }
+    
+        return answer = (m > money) ? m-money : 0;
+    }
+	
+
 
 	 public static void main(String[] args) {
-	        Scanner sc = new Scanner(System.in);
-	        int a = sc.nextInt();
-	        int b = sc.nextInt();
-	        String str = new String("*");
+		 	
 	        
-	        
-	        for (int i=1; i<=b; i++) {
-		          System.out.println(str.repeat(a));
-		       }
 	        	
 	       
 	       
