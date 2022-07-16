@@ -1,6 +1,6 @@
 package algorithm;
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.Collections; // Á¤·Ä
 public class challeng_1 {
 	
 	 public static int solution(int n) {
