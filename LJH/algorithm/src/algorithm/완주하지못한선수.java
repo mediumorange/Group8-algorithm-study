@@ -6,43 +6,38 @@ import java.util.Arrays;
 public class 완주하지못한선수 {
 	
 	public static String solution(String[] participant, String[] completion) {
-        
 		String answer = "";
-        String[] par = {"a","b","c","d"};        
-        String[] com = {"a","b","c"};
-		List<String> par1 =new ArrayList<>(Arrays.asList(par)) ;
-		List<String> com2 =new ArrayList<>(Arrays.asList(com)) ;
 
-        int num = 0;
+		
+		ArrayList<String> par = new ArrayList<String>(Arrays.asList(participant));
+        ArrayList<String> com= new ArrayList<String>(Arrays.asList(completion));
+
         
-        for (String i : par) {
-        	if (!Arrays.asList(com).contains(i)) {
-        		answer = i ;
-        		break;
-        		
+        for (String i : com) {
+        	if (par.contains(i)) {
+        		par.remove(i);
+        
         	}
         	
+        
         }
         
-        
+        answer = par.get(0);
+
         return answer;
 
         
     }
 
 	public static void main(String[] args) {
-        String[] com = {"a","b","c"};
-		List<String> list =new ArrayList<>(Arrays.asList(com)) ;
-		list.remove("c");
+        String[] par = {"a","b","a","c"};
+        String[] com = {"b","c","a"};
 		
-		System.out.println(list);
+
 		
+		System.out.println(solution(par,com));
 		
-		int getIndex = Arrays.asList(par).indexOf(3);
-		
-        System.out.println(getIndex);
         
-       System.out.println(solution(par,com));
 		
 		  
 	}
