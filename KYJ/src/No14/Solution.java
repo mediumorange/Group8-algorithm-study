@@ -16,9 +16,9 @@ public class Solution {
         } else {
             answer = new int[count];
             int cnt = 0;
-            for (int i=0; i<arr.length; i++) {
-                if (arr[i] % divisor == 0) {
-                    answer[cnt] = arr[i];
+            for (int i : arr) {
+                if (i % divisor == 0) {
+                    answer[cnt] = i;
                     cnt++;
                 }
             }

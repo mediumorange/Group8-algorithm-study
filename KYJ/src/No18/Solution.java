@@ -1,18 +1,17 @@
 package No18;
 
-import java.util.Arrays;
-import java.util.Objects;
-
 public class Solution {
     public String solution(String[] seoul) {
-        String location = null;
+//        String location = null;
+        int a = 0; //
         for (int i = 0; i < seoul.length; i++) {
             if (seoul[i].equals("Kim")) {
-                location = Integer.toString(i);
+                a = i; //
+//                location = Integer.toString(i);
             }
         }
-        String answer = String.format("김서방은 %s에 있다", location);
-        return answer;
+        return "김서방은 "+a+"에 있다"; //
+//        return String.format("김서방은 %s에 있다", location);
     }
 
     //    확인용
