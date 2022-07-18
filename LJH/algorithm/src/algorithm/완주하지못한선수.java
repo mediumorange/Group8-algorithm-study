@@ -16,7 +16,6 @@ public class 완주하지못한선수 {
         		par.remove(i);
         	}    
         }
-        
         answer = par.get(0);
 
         return answer;
@@ -25,14 +24,10 @@ public class 완주하지못한선수 {
     }
 
 	public static void main(String[] args) {
-       
-		
+		String[] par = {"a","a","b","c"};
+		String[] com = {"a","b","c"};
+		System.out.println(solution(par,com));
 
-		
-		
-        
-		
-		  
 	}
 
 }

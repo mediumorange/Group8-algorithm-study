@@ -4,8 +4,8 @@ import java.util.Map;
 import java.util.Set;
 
 
- // array ["a","b","c"]
- // Hashset {"a" : value, "b" : value, "c": value}
+ // array ["a","b","c"]   O(n)
+ // Hashset {"a" : value, "b" : value, "c": value}  O(1)
 
 public class 완주 {
 	
@@ -40,7 +40,8 @@ public class 완주 {
         		par.put(name,--target);  // target이 1이 아니면 중복된 참가자이므로 value값을 1낮춰줌
         	}    	
         }
-        
+
+		System.out.println(par);
         Set<String>keys = par.keySet();
         String key = keys.toString();
         answer = key.substring(1,key.length()-1);
@@ -53,15 +54,8 @@ public class 완주 {
 	public static void main(String[] args) {
 		
         String[] par = {"a","a","b","c"};
-        String[] com = {"a","b","c"};
-       
-		
-
+        String[] com = {"a","a","c"};
 		System.out.println(solution(par,com));
-		
-   
-		
-		  
 	}
 
 }

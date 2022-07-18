@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/challeng_1.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/challenge_32.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/내림차순정렬.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/소수만들기.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/완주.java" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/완주하지못한선수.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/제일작은수제거하기.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/algorithm/src/algorithm/콜라츠추측.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/class_pratice/src/class_pratice/bus.java" charset="x-windows-949" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
