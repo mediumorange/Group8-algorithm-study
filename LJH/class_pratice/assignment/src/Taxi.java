@@ -73,8 +73,7 @@ public class Taxi <Stirng> extends Public_transport {
         System.out.println("현재 상태: " + getState());
     }
 
-    public Taxi(int num,int current_passenger,Stirng des,int des_distance) {
-        super(num);
+    public Taxi(int current_passenger,Stirng des,int des_distance) {
 
         this.current_passenger = current_passenger;
         this.max_passenger = 4;

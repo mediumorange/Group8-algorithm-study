@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="no.41, no.51 clear">
+    <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="assignment minor change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Taxi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/assignment/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Bus.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/assignment/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/assignment/Public_transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Public_transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment/Taxi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Taxi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,8 +173,16 @@
       <workItem from="1658192738455" duration="20000" />
       <workItem from="1658192801675" duration="219000" />
       <workItem from="1658193045196" duration="123000" />
-      <workItem from="1658193194542" duration="17842000" />
+      <workItem from="1658193194542" duration="19560000" />
     </task>
+    <task id="LOCAL-00001" summary="assignment minor change">
+      <created>1658213794538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658213794538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="no.41, no.51 clear" />
-    <option name="LAST_COMMIT_MESSAGE" value="no.41, no.51 clear" />
+    <MESSAGE value="assignment minor change" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment minor change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

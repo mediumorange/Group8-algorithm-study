@@ -12,8 +12,7 @@ public class Bus extends Public_transport {
         this.fee = fee;
     }
 
-    public Bus(int num) {
-        super(num);
+    public Bus() {
         this.max_passenger = 30;
     }
 

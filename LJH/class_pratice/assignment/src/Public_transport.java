@@ -1,6 +1,7 @@
+import java.util.UUID;
 public class Public_transport {
-    private int num;  //번호
     private int fuel = 100; //주유량
+    String num = UUID.randomUUID().toString();
 
     private int speed = 0; //속도
     int current_passenger;
@@ -18,9 +19,6 @@ public class Public_transport {
 
 
 
-    public int getNum() {
-        return num;
-    }
 
     public int getFuel() {
         return fuel;
@@ -35,9 +33,6 @@ public class Public_transport {
         return max_passenger;
     }
 
-    public void setNum(int num) {
-        this.num = num;
-    }
 
     public void setFuel(int fuel) {
         this.fuel = fuel;
@@ -103,9 +98,7 @@ public class Public_transport {
         System.out.println("현재 상태: " + getState());
     }
 
-    public Public_transport(int num) {
-        this.num = num;
-    }
+
 
 
 }
