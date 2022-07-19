@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="no.41, no.51 clear">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/algoritm_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/내림차순정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/내림차순정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_pratice/src/class_pratice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/src/class_pratice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus_main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment/Public_transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Public_transport.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +171,7 @@
       <workItem from="1658192738455" duration="20000" />
       <workItem from="1658192801675" duration="219000" />
       <workItem from="1658193045196" duration="123000" />
-      <workItem from="1658193194542" duration="13167000" />
+      <workItem from="1658193194542" duration="17842000" />
     </task>
     <servers />
   </component>

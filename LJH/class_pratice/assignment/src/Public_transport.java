@@ -3,8 +3,10 @@ public class Public_transport {
     private int fuel = 100; //주유량
 
     private int speed = 0; //속도
-    private int current_passenger;
+    int current_passenger;
     int max_passenger; //최대 승객수
+    String state = "운행중"; //상태
+
 
     public int getCurrent_passenger() {
         return current_passenger;
@@ -15,7 +17,6 @@ public class Public_transport {
     }
 
 
-    private String state = "운행중"; //상태
 
     public int getNum() {
         return num;
@@ -87,8 +88,8 @@ public class Public_transport {
         this.speed += x;
     }
 
-    public void add_fuel(int x) {
-        this.fuel += x;
+    public void add_fuel(int fuel) {
+        this.fuel += fuel;
         System.out.println("현재 주유량: "+ getFuel());
         if (getFuel() < 10) {
             change_state();
