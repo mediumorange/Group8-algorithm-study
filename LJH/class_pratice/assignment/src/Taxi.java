@@ -1,4 +1,4 @@
-public class Taxi <Stirng> extends Public_transport {
+public class Taxi extends Public_transport {
     private String des;
     private int des_distance;  //목적지 까지거리
     private int base_distance = 1; //기본거리
@@ -71,15 +71,14 @@ public class Taxi <Stirng> extends Public_transport {
     public  void change_state() {  //상태 변화시키기
         this.state = (this.state == "운행중") ? "운행불가" : "운행중";
         System.out.println("현재 상태: " + getState());
+
     }
 
-    public Taxi(int current_passenger,Stirng des,int des_distance) {
-
+    public <Stirng> Taxi(int current_passenger, Stirng des, int des_distance) {
         this.current_passenger = current_passenger;
         this.max_passenger = 4;
         this.des = (String) des;
         this.des_distance = des_distance;
-
     }
 
     public void show() {

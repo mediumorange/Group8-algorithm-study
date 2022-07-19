@@ -1,3 +1,5 @@
+package algorithm;
+
 public class no_38 {
     public  static int solution(String s) {
         int answer = 0;

@@ -1,13 +1,15 @@
 import java.util.UUID;
 public class Public_transport {
-    private int fuel = 100; //주유량
-    String num = UUID.randomUUID().toString();
+    protected int fuel = 100; //주유량
+    protected String num = UUID.randomUUID().toString();  // 번호 고유값으로 설정
+    protected int speed = 0; //속도
+    protected int current_passenger; //현재 승객수
+    protected int max_passenger; //최대 승객수
+    protected String state = "운행중"; //상태
 
-    private int speed = 0; //속도
-    int current_passenger;
-    int max_passenger; //최대 승객수
-    String state = "운행중"; //상태
-
+    public String getNum() {
+        return num;
+    }
 
     public int getCurrent_passenger() {
         return current_passenger;
@@ -46,8 +48,6 @@ public class Public_transport {
     public void setMax_passenger(int max_passenger) {
         this.max_passenger = max_passenger;
 
-
-
     }
 
     public String getState() {
@@ -58,7 +58,7 @@ public class Public_transport {
         this.state = state;
     }
 
-    public void add_passenger(int x) {
+    public void add_passenger(int x) {    //승객추가
 
         if (getCurrent_passenger() + x > getMax_passenger()) {
             System.out.println("정원초과입니다");

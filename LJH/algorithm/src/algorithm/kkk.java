@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -5,7 +7,6 @@ public class kkk {
 
 
     public class Solution {
-
         public static int[] solution(int[] arr) {
             int[] answer = new int[arr.length - 1];
             if (arr.length == 1) {
