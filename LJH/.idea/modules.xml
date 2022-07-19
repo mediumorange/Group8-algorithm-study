@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class_pratice/assignment/assignment.iml" filepath="$PROJECT_DIR$/class_pratice/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/class_assignmnent/class_assignmnent.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/class_assignmnent/class_assignmnent.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_pratice/class_pratice.iml" filepath="$PROJECT_DIR$/class_pratice/class_pratice.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>

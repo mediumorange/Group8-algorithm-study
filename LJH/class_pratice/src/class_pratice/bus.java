@@ -103,16 +103,17 @@ public class bus {
 		this.current_speed += x;
 	}
 	
-	public bus(int max_passenger, int current_passenger, int fee, int bus_number, int fuel_volume, int current_spped,
-			String state) {
+	public bus(int max_passenger, int current_passenger, int fee, int bus_number, int fuel_volume, int current_spped) {
 		
 		this.max_passenger = max_passenger;
 		this.current_passenger = current_passenger;
-		this.fee = fee;
+		this.fee = 100;
 		this.bus_number = bus_number;
 		this.fuel_volume = fuel_volume;
-		this.current_speed = current_spped;
+		this.current_speed = 0;
+
 	}
+
 	public void show() {
 		System.out.println("------------------------------------------");
 		System.out.println("¹ö½ºÃÖ´ë½Â°´¼ö: " + getMax_passenger());

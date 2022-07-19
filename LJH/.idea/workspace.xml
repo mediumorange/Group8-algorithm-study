@@ -4,19 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/dddd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/ch_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/ddd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/kkk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/secret_map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="no.41, no.51 clear">
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/algoritm_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/소수만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/소수만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/완주.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/완주.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/완주하지못한선수.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/완주하지못한선수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/내림차순정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/내림차순정렬.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_pratice/src/class_pratice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/src/class_pratice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/src/class_pratice/bus_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/untitled1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2C4qNAMYBe2GE25rI2CuU7P9M2X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +62,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,13 +75,38 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.secret_map">
-    <configuration name="완주하지못한선수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.완주하지못한선수" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Group8-algorithm-study\LJH\class_pratice\assignment\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="내림차순정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.내림차순정렬" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_pratice.Main" />
+      <module name="class_pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dddd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.dddd" />
+    <configuration name="algoritm_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.algoritm_test" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,26 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.teste" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.algoritm_test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.내림차순정렬" />
         <item itemvalue="Application.secret_map" />
-        <item itemvalue="Application.teste" />
-        <item itemvalue="Application.dddd" />
-        <item itemvalue="Application.완주" />
-        <item itemvalue="Application.완주하지못한선수" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +181,13 @@
       <workItem from="1658072171405" duration="200000" />
       <workItem from="1658072513918" duration="393000" />
       <workItem from="1658073030320" duration="121000" />
-      <workItem from="1658105986322" duration="22283000" />
+      <workItem from="1658105986322" duration="26298000" />
+      <workItem from="1658143042359" duration="1576000" />
+      <workItem from="1658192256179" duration="470000" />
+      <workItem from="1658192738455" duration="20000" />
+      <workItem from="1658192801675" duration="219000" />
+      <workItem from="1658193045196" duration="123000" />
+      <workItem from="1658193194542" duration="13167000" />
     </task>
     <servers />
   </component>
@@ -171,6 +205,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="no.41, no.51 clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="no.41, no.51 clear" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -178,6 +216,43 @@
           <properties class="java.util.IllegalFormatConversionException" package="java.util" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/class_pratice/src/class_pratice/person.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/class_pratice/src/class_pratice/Node.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/class_pratice/src/class_pratice/Node.java</url>
+          <line>8</line>
+          <properties class="class_pratice.Node" method="getX">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/class_pratice/src/class_pratice/Node.java</url>
+          <line>20</line>
+          <properties class="class_pratice.Node" method="setY">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/class_pratice/src/class_pratice/Node.java</url>
+          <line>24</line>
+          <properties class="class_pratice.Node" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
