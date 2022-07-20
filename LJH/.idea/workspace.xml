@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="assignment minor change">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/ch_37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/no_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_40.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +166,7 @@
       <workItem from="1658192801675" duration="219000" />
       <workItem from="1658193045196" duration="123000" />
       <workItem from="1658193194542" duration="33388000" />
-      <workItem from="1658277669484" duration="18378000" />
+      <workItem from="1658277669484" duration="19636000" />
     </task>
     <task id="LOCAL-00001" summary="assignment minor change">
       <created>1658213794538</created>
