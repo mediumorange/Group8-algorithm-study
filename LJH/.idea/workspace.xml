@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="assignment minor change">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <recent name="C:\Users\User\Documents\Group8-algorithm-study\LJH\class_pratice\assignment\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.no_30">
+  <component name="RunManager" selected="Application.no_31">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="assignment" />
@@ -89,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="algoritm_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.algoritm_test" />
+    <configuration name="no_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.no_30" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.no_30" />
+    <configuration name="no_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.no_31" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.no_31" />
         <item itemvalue="Application.no_30" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.no_54" />
         <item itemvalue="Application.algorithm.secret_map" />
-        <item itemvalue="Application.algoritm_test" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +154,7 @@
       <workItem from="1658192801675" duration="219000" />
       <workItem from="1658193045196" duration="123000" />
       <workItem from="1658193194542" duration="33388000" />
-      <workItem from="1658277669484" duration="1401000" />
+      <workItem from="1658277669484" duration="3351000" />
     </task>
     <task id="LOCAL-00001" summary="assignment minor change">
       <created>1658213794538</created>
