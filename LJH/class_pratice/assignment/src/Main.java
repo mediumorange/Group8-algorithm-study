@@ -35,9 +35,9 @@ public class Main {
         System.out.println("------------------------------------------");
         Taxi taxi1 = new Taxi(2, "서울역", 2);
         Taxi taxi2 = new Taxi(2,"역삼역",3);
-        System.out.println("------------------------------------------");
         System.out.println("taxi1 num:"+taxi1.num);
         System.out.println("taxi2 num:"+taxi2.num);
+        System.out.println("------------------------------------------");
         taxi1.show();
         System.out.println("---------------------");
         taxi1.add_fuel(-80);
