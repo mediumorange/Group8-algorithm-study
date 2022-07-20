@@ -6,6 +6,16 @@ public class Public_transport {
     protected int current_passenger; //현재 승객수
     protected int max_passenger; //최대 승객수
     protected String state = "운행중"; //상태
+    protected int money;
+
+    public int getMoney() {
+        money = getCurrent_passenger()*1000;
+        System.out.println("요금은 "+money+"원입니다");
+        return money;
+    }
+
+
+
 
     public String getNum() {
         return num;
@@ -51,6 +61,7 @@ public class Public_transport {
     }
 
     public String getState() {
+
         return state;
     }
 
@@ -67,6 +78,7 @@ public class Public_transport {
             this.current_passenger += x;
             System.out.println("탑승 승객은" + x + "입니다");
             System.out.println("잔여 승객은" + (getMax_passenger() - getCurrent_passenger()) + "입니다");
+            getMoney();
         }
     }
 
@@ -95,6 +107,9 @@ public class Public_transport {
 
     public  void change_state() {
         this.state = (this.state == "운행중") ? "차고지행" : "운행중";
+        if(this.state == "차고지행") {
+            this.current_passenger =0;
+        }
         System.out.println("현재 상태: " + getState());
     }
 

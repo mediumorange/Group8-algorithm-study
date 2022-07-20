@@ -19,7 +19,6 @@ public class Main {
         System.out.println("------------------------------------------");
         bus1.add_fuel(10);
         bus1.change_state();
-        System.out.println(bus1.getState());
         System.out.println("------------------------------------------");
         System.out.println("주유량: " + bus1.getFuel());
         System.out.println("------------------------------------------");
@@ -29,8 +28,6 @@ public class Main {
         System.out.println("------------------------------------------");
         bus1.add_fuel(-55);
         System.out.println("------------------------------------------");
-
-
         System.out.println("Taxi simulation");
         System.out.println("------------------------------------------");
         Taxi taxi1 = new Taxi(2, "서울역", 2);
