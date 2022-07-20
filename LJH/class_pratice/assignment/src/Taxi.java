@@ -1,10 +1,9 @@
 public class Taxi extends Public_transport {
-    private String des;
+    private String des;        //목적지
     private int des_distance;  //목적지 까지거리
     private int base_distance = 1; //기본거리
     private int base_fee = 3000; //기본요금
     private int des_fee = 1000; // 거리당 요금
-
     private int Accumulated_fee;
 
     public int getAccumulated_fee() {
@@ -74,7 +73,7 @@ public class Taxi extends Public_transport {
 
     }
 
-    public <Stirng> Taxi(int current_passenger, Stirng des, int des_distance) {
+    public  <Stirng> Taxi(int current_passenger, Stirng des, int des_distance) {
         this.current_passenger = current_passenger;
         this.max_passenger = 4;
         this.des = (String) des;
