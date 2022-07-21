@@ -1,27 +1,40 @@
 package algorithm;
 
+import java.util.ArrayList;
+
 public class algoritm_test {
-
-    public static int solution(int chin[], int chout[]) {
-        int answer = 0;
-
-        for (int i = 0; i < 7; i++) {
-            if (chout[i] >= 29) { // 새벽 5시정각이나 이상일때
-                answer += 21 - chin[i];
-            } else {
-                answer += chout[i] - chin[i];
-            }
-
+    public String solution(int n) {
+        String answer = "";
+        ArrayList <Integer> ans = new ArrayList<>();
+        int sum = 0;
+        while ( n > 0) {
+            ans.add(n%10);
+            sum += n % 10;
+            n /= 10;
         }
+
+        int b = 1;
+
+        for (int i : ans) {
+            if (b == ans.size()) {
+                answer += i+"="+sum;
+            }
+            else {
+                answer += i + "+";
+                ++b;
+            }
+        }
+
 
         return answer;
     }
 
-    public static void main(String[] args) {
-        int [] a = {9, 9, 9, 9, 7, 9, 8};
-        int [] b = {23, 23, 30, 28, 30, 23, 23};
 
-        System.out.println(solution(a,b));
+    public static void main(String[] args) {
+
+        algoritm_test method = new algoritm_test();
+        System.out.println(method.solution(1532576));
+
 
     }
 }

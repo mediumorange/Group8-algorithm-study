@@ -108,6 +108,8 @@ public class Public_transport {
     public  void change_state() {
         this.state = (this.state == "운행중") ? "차고지행" : "운행중";
         if(this.state == "차고지행") {
+
+
             this.current_passenger =0;
         }
         System.out.println("현재 상태: " + getState());
