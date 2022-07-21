@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f465590-8eaf-4f6c-85f3-ad67ec1cc298" name="Changes" comment="assignment minor change">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/algoritm_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/algoritm_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/class_pratice/assignment/src/Public_transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/no_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/no_47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <recent name="C:\Users\User\Documents\Group8-algorithm-study\LJH\class_pratice\assignment\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.no_50">
+  <component name="RunManager" selected="Application.no_47">
     <configuration name="algoritm_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.algoritm_test" />
       <module name="algorithm" />
@@ -89,32 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.no_48" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="no_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.no_49" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="no_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.no_50" />
       <module name="algorithm" />
@@ -128,13 +101,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="no_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.no_53" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.test" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.no_47" />
+        <item itemvalue="Application.no_53" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.no_50" />
         <item itemvalue="Application.algoritm_test" />
-        <item itemvalue="Application.no_49" />
-        <item itemvalue="Application.no_48" />
-        <item itemvalue="Application.no_47" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +156,8 @@
       <workItem from="1658193045196" duration="123000" />
       <workItem from="1658193194542" duration="33388000" />
       <workItem from="1658277669484" duration="30422000" />
-      <workItem from="1658365674161" duration="19323000" />
+      <workItem from="1658365674161" duration="20275000" />
+      <workItem from="1658398356174" duration="5307000" />
     </task>
     <task id="LOCAL-00001" summary="assignment minor change">
       <created>1658213794538</created>
