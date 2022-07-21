@@ -1,8 +1,12 @@
+import java.util.UUID;
+
+import java.util.UUID;
 public class Bus extends public_transport {
 
-    public void BusCreate(int busnumber){
+    public void BusCreate(String busnumber){
+        busnumber = UUID.randomUUID().toString();
         this.number = busnumber;
-        System.out.println(busnumber + "번 버스");
+        System.out.println(this.number + "번 버스");
     }
 
     public void getpassenger(int getpassenger){
@@ -43,6 +47,16 @@ public class Bus extends public_transport {
             this.currentstatus = status;
             System.out.println("현재 상태 차고지행");
         }
+    }
+
+    public void speedup(int speed){
+        this.speed += speed;
+        System.out.println("현재 속도 " + this.speed);
+    }
+
+    public void speeddown(int speed){
+        this.speed -= speed;
+        System.out.println("현재 속도 " + this.speed);
     }
 }
 
