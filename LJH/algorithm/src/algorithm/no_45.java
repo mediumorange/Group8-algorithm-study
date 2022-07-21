@@ -25,7 +25,7 @@ public class no_45 {
                 Collections.sort(arr1);
                 answer[i] = arr1.get(a[2] - 1);
                 ++i;
-                System.out.println("arr1= " + arr1);
+                System.out.println("arr= " + arr);
                 arr = Arrays.stream(array).boxed().collect(Collectors.toList());
             }
         }

@@ -8,7 +8,7 @@ public class no_45_ {
         int [] answer = new int[commands.length];
 
         for (int i = 0 ; i< commands.length ; i++) {
-            int [] temp = Arrays.copyOfRange(array,commands[i][0]-1,commands[i][1]);
+            int [] temp = Arrays.copyOfRange(array,commands[i][0]-1,commands[i][1]);  //배열 자르기
             Arrays.sort(temp);
             answer[i] = temp[commands[i][2]-1];
         }
